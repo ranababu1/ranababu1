@@ -20,5 +20,5 @@
 <!-- <code><img height="40" src="https://avatars1.githubusercontent.com/u/42048915?s=200&v=4"></code> -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranababu1&theme=shades-of-purple)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranababu1&theme=shades-of-purple)](https://git.io/streak-stats) -->
 
