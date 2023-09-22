@@ -2,7 +2,7 @@
 
 - 👷 Team Lead at Zeta
 - 😄 Pronouns: He/him
-- 📫 How to reach me: [@princeimu](https://twitter.com/princeimu) | [@imran](mailto:hello@imraan.in)
+- 📫 How to reach me: [@ihm185](https://twitter.com/ihm185) | [@imran](mailto:hello@imraan.in)
 
 **Languages and Tools:**  
 
