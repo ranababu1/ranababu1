@@ -2,7 +2,7 @@
 
 - 👷 Engineering Lead at Zeta
 - 🧠 Building agentic AI systems, fullstack platforms and cloud infra
-- 📫 Reach me: [@Linkedin]([https://twitter.com/ihm185](https://www.linkedin.com/in/imazumder/)) | [hello@imraan.in](mailto:hello@imraan.in)
+- 📫 Reach me: [@Linkedin](https://www.linkedin.com/in/imazumder/) | [hello@imraan.in](mailto:hello@imraan.in)
 
 **Languages and Tools:**  
 
