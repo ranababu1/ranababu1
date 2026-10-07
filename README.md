@@ -1,6 +1,6 @@
 ### Hi there, I'm Imran 👋
 
-- 👷 Engineering Lead at Zeta
+- 👷 Associate Director, Tech at Clevertap
 - 🧠 Building agentic AI systems, fullstack platforms and cloud infra
 - 📫 Reach me: [@Linkedin](https://www.linkedin.com/in/imazumder/) | [hello@imraan.in](mailto:hello@imraan.in)
 
